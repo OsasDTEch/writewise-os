@@ -2,9 +2,10 @@ streamlit
 langchain
 langchain-google-genai
 langchain-chroma
+langchain-anthropic
 langgraph
 langchain-community
-faiss
+faiss-cpu
 python-dotenv
 unstructured
 pypdf
@@ -12,4 +13,4 @@ tiktoken
 google-generativeai
 typing-extensions
 pydantic
-faiss-cpu
+typing-extension
